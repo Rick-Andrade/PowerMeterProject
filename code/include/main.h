@@ -1,7 +1,7 @@
 #ifndef _MAIN_H_
     #define _MAIN_H_
 
-    #include "LOG.h"
+    #include "Conection.h"
     
 
 #endif //_MAIN_H_

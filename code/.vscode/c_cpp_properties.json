@@ -8,8 +8,9 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "c:/Users/ricka/Documents/PowerMeterCode/include",
-                "c:/Users/ricka/Documents/PowerMeterCode/src",
+                "c:/Users/ricka/appMQTT/PowerMeterProject/code/include",
+                "c:/Users/ricka/appMQTT/PowerMeterProject/code/src",
+                "C:/Users/ricka/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
                 "C:/Users/ricka/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/config",
                 "C:/Users/ricka/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_trace",
                 "C:/Users/ricka/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_update",
@@ -97,7 +98,6 @@
                 "C:/Users/ricka/.platformio/packages/framework-arduinoespressif32/libraries/Ticker/src",
                 "C:/Users/ricka/.platformio/packages/framework-arduinoespressif32/libraries/Update/src",
                 "C:/Users/ricka/.platformio/packages/framework-arduinoespressif32/libraries/WebServer/src",
-                "C:/Users/ricka/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
                 "C:/Users/ricka/.platformio/packages/framework-arduinoespressif32/libraries/WiFiClientSecure/src",
                 "C:/Users/ricka/.platformio/packages/framework-arduinoespressif32/libraries/WiFiProv/src",
                 "C:/Users/ricka/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src",
@@ -106,8 +106,9 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "c:/Users/ricka/Documents/PowerMeterCode/include",
-                    "c:/Users/ricka/Documents/PowerMeterCode/src",
+                    "c:/Users/ricka/appMQTT/PowerMeterProject/code/include",
+                    "c:/Users/ricka/appMQTT/PowerMeterProject/code/src",
+                    "C:/Users/ricka/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
                     "C:/Users/ricka/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/config",
                     "C:/Users/ricka/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_trace",
                     "C:/Users/ricka/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_update",
@@ -195,7 +196,6 @@
                     "C:/Users/ricka/.platformio/packages/framework-arduinoespressif32/libraries/Ticker/src",
                     "C:/Users/ricka/.platformio/packages/framework-arduinoespressif32/libraries/Update/src",
                     "C:/Users/ricka/.platformio/packages/framework-arduinoespressif32/libraries/WebServer/src",
-                    "C:/Users/ricka/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
                     "C:/Users/ricka/.platformio/packages/framework-arduinoespressif32/libraries/WiFiClientSecure/src",
                     "C:/Users/ricka/.platformio/packages/framework-arduinoespressif32/libraries/WiFiProv/src",
                     "C:/Users/ricka/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src",

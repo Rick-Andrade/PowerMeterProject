@@ -4,9 +4,9 @@
 
 void setup() {
   Serial.begin(115200);
-  LOG logObject;
+  Conection logObject;
 
-  logObject.init();
+  logObject.SerialConection();
 
 }
 
